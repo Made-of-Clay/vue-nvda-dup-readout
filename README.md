@@ -11,3 +11,5 @@ Running [NVDA](https://www.nvaccess.org/download/) version 2024.4.2.35031
 3. Load the page
 
 The screen reader will read out "foo input" twice. (Is that correct?)
+
+**Alternative:** If you run the `no-build.html` file on a file server, you'll get the same results.
